@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://github.com/libkosmos/kosbook/kosbook.png">
+<img src="https://github.com/libkosmos/kosbook/kosbook-cover.png">
 
 kosbook is a brute force application built on python3 which enables the tester to enter the victims account by using their API, it uses various libraries like optparse, re and more.
 
@@ -133,7 +133,7 @@ Twitter - [@gadrielgargard7](https://x.com/gadrielgargard7)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/libkosmos/kosbook/graphs/commit-activity)
 
 <div align="center">
-  <img src="https://github.com/libkosmos/kosbook/kosbook.png" alt="kosbook Logo" width="200"/>
+  <img src="https://github.com/libkosmos/kosbook/kosbook-cover.png" alt="kosbook Logo" width="200"/>
   
   ### ⚠️ IMPORTANT LEGAL NOTICE ⚠️
   
