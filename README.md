@@ -1,13 +1,3 @@
- 
- ![Language](https://img.shields.io/github/languages/top/thehassantahir/faceboom?style=for-the-badge)
- ![issues](https://img.shields.io/github/issues/thehassantahir/faceboom?style=for-the-badge)
- ![codesize](https://img.shields.io/github/languages/code-size/thehassantahir/faceboom?style=for-the-badge)
- ![license](https://img.shields.io/github/license/thehassantahir/faceboom?style=for-the-badge)
- ![forks](https://img.shields.io/github/forks/thehassantahir/faceboom?style=for-the-badge)
- ![stars](https://img.shields.io/github/stars/thehassantahir/faceboom?style=for-the-badge)
- ![twitter](https://img.shields.io/twitter/follow/thehassantahir?style=for-the-badge)
- 
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -38,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://github.com/libkosmos/kosbook/blob/master/img/kosbook.png">
+<img src="https://github.com/libkosmos/kosbook/kosbook.png">
 
 kosbook is a brute force application built on python3 which enables the tester to enter the victims account by using their API, it uses various libraries like optparse, re and more.
 
@@ -119,7 +109,7 @@ Distributed under an open license. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Twitter - [@gadrielgargard7](https://twitter.com/thehassantahir)
+Twitter - [@gadrielgargard7](https://x.com/gadrielgargard7)
 
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -143,7 +133,7 @@ Twitter - [@gadrielgargard7](https://twitter.com/thehassantahir)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/libkosmos/kosbook/graphs/commit-activity)
 
 <div align="center">
-  <img src="https://github.com/hassan-tahir/Faceboom/blob/master/img/faceboom.jpg" alt="kosbook Logo" width="200"/>
+  <img src="https://github.com/libkosmos/kosbook/kosbook.png" alt="kosbook Logo" width="200"/>
   
   ### ⚠️ IMPORTANT LEGAL NOTICE ⚠️
   
